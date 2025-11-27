@@ -1,0 +1,10 @@
+@import "tailwindcss";
+/* external style.css */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #cf8080;   /* soft grey */
+  font-family: "Poppins", sans-serif;
+  color: #222;                 /* dark text */
+  letter-spacing: 0.4px;
+}
